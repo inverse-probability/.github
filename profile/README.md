@@ -5,4 +5,4 @@ De Morgan (1838), An Essay on Probabilities, Ch. 3 "On Inverse Probabilities"
 Also:</br>
 &dagger; Fisher (1930), *Math. Proc. Camb. Philos. Soc.*, **26**, p 528, "Inverse probability", clearly distinguishes, perhaps for the first time, between Bayesian inference from flat "ignorance" priors ("the inverse argument proper"), the unexceptionable application of Bayes' Theorem when the prior describes aleatory probabilities ("not inverse probability strictly speaking"), & his fiducial argument.
 
-&ddagger; For example, Pearson (1907), *Phil. Mag.*, p365, "On the influence of past experience on future expectation", conflates Bayes' Theorem with the "equal distribution of ignorance".
+&ddagger; Pearson (1907), *Phil. Mag.*, p365, "On the influence of past experience on future expectation", conflates Bayes' Theorem with the "equal distribution of ignorance".
